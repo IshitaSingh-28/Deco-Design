@@ -1,9 +1,9 @@
 # Deco-Design
 
-This is an Online Internal Design Website which can be used by people to get ideas about new design and can consult an architect by contacting us threw our website
+Deco-Design is an online interior design website that provides users with fresh ideas for their design projects. Users can also consult with professional architects by contacting us through the website.
 
-These Files are for the heroku deployment.
+These files are configured for Heroku deployment and are not intended to be run locally on a PC.
 
-So can not run on the PC
+The website link will be provided soon.
 
-Website Link will be Provided Soon ----
+---
